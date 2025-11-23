@@ -1,4 +1,5 @@
-FROM gradle:8.5-jdk21 AS build
+FROM openjdk:17-jdk-slim
+
 WORKDIR /app
 
 COPY . .
