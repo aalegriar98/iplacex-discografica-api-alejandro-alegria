@@ -8,7 +8,6 @@ group = 'org.iplacex.proyectos'
 version = '1'
 description = 'API REST proyecto Discografía'
 
-// 👇 ya NO hay bloque java { toolchain ... }
 
 repositories {
     mavenCentral()
